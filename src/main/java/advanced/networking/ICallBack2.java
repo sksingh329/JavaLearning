@@ -1,4 +1,4 @@
-package basics.networking;
+package advanced.networking;
 
 public interface ICallBack2 {
     default void callBack(int param){

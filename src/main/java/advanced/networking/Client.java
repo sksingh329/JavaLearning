@@ -1,4 +1,4 @@
-package basics.networking;
+package advanced.networking;
 
 public class Client implements ICallBack, ICallBack2 {
     @Override
